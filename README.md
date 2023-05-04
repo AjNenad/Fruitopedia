@@ -1,1 +1,1 @@
-# Fruitopedia
+100% HTML Fruits, enjoy :)!
